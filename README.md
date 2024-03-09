@@ -2,4 +2,4 @@
 
 ## Tools
 
-+ [Snort](./Snort)
++ [Snort](https://github.com/rhymeyang/WebSource/wiki/Snort)
