@@ -1,5 +1,1 @@
-# WebSource
-
-## Tools
-
-+ [Snort](https://github.com/rhymeyang/WebSource/wiki/Snort)
+to be later
